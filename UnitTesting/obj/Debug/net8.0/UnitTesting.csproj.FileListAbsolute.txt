@@ -1,0 +1,14 @@
+D:\xUnit\UnitTesting\bin\Debug\net8.0\UnitTesting.exe
+D:\xUnit\UnitTesting\bin\Debug\net8.0\UnitTesting.deps.json
+D:\xUnit\UnitTesting\bin\Debug\net8.0\UnitTesting.runtimeconfig.json
+D:\xUnit\UnitTesting\bin\Debug\net8.0\UnitTesting.dll
+D:\xUnit\UnitTesting\bin\Debug\net8.0\UnitTesting.pdb
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.dll
+D:\xUnit\UnitTesting\obj\Debug\net8.0\refint\UnitTesting.dll
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
+D:\xUnit\UnitTesting\obj\Debug\net8.0\UnitTesting.genruntimeconfig.cache
+D:\xUnit\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll
