@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pt9arwfCoq0=",
+  "dgSpecHash": "vCjEAHJ8yIU=",
   "success": true,
   "projectFilePath": "D:\\xUnit\\UnitTesting\\CalculatorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OPL\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
-    "C:\\Users\\OPL\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\OPL\\.nuget\\packages\\nsubstitute\\5.3.0\\nsubstitute.5.3.0.nupkg.sha512",
-    "C:\\Users\\OPL\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+    "C:\\Users\\OPL\\.nuget\\packages\\reportgenerator\\5.4.5\\reportgenerator.5.4.5.nupkg.sha512",
+    "C:\\Users\\OPL\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\OPL\\.nuget\\packages\\xunit.runner.console\\2.9.3\\xunit.runner.console.2.9.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -13,4 +13,12 @@
     <SourceRoot Include="C:\Users\OPL\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xunit.runner.console\2.9.3\build\xunit.runner.console.props" Condition="Exists('$(NuGetPackageRoot)xunit.runner.console\2.9.3\build\xunit.runner.console.props')" />
+    <Import Project="$(NuGetPackageRoot)reportgenerator\5.4.5\build\netstandard2.0\ReportGenerator.props" Condition="Exists('$(NuGetPackageRoot)reportgenerator\5.4.5\build\netstandard2.0\ReportGenerator.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgxunit_runner_console Condition=" '$(Pkgxunit_runner_console)' == '' ">C:\Users\OPL\.nuget\packages\xunit.runner.console\2.9.3</Pkgxunit_runner_console>
+    <PkgReportGenerator Condition=" '$(PkgReportGenerator)' == '' ">C:\Users\OPL\.nuget\packages\reportgenerator\5.4.5</PkgReportGenerator>
+  </PropertyGroup>
 </Project>
