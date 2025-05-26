@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xUnit\\UnitTesting\\CalculatorApp.csproj",
+      "projectUniqueName": "D:\\UnitTest\\xUnit\\UnitTesting\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "D:\\xUnit\\UnitTesting\\CalculatorApp.csproj",
+      "projectPath": "D:\\UnitTest\\xUnit\\UnitTesting\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\OPL\\.nuget\\packages\\",
-      "outputPath": "D:\\xUnit\\UnitTesting\\obj\\",
+      "outputPath": "D:\\UnitTest\\xUnit\\UnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
